@@ -1,0 +1,2 @@
+# Elevvo-Internship-Data-Analytics
+Completed a Data Analytics internship where I worked on given datasets to perform data cleaning, preprocessing, and exploratory data analysis. Utilized Python libraries including Pandas, NumPy, Matplotlib, and Scikit-learn to extract meaningful insights, build visualizations. Gained hands-on experience in statistical analysis, identifying trends and patterns clearly, findings to support decision making based on data insights.
